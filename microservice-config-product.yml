@@ -86,3 +86,6 @@ eureka:
   instance:  #指定实例ID,就不会显示主机名了
     instanceId: ${spring.application.name}:${server.port}
     prefer-ip-address: true
+    
+emp:
+  name: brx
