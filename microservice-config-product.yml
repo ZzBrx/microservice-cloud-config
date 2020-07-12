@@ -88,4 +88,4 @@ eureka:
     prefer-ip-address: true
     
 emp:
-  name: brx
+  name: zzbrx
